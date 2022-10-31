@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOqKoYgppYVOtr3tc6AXoyJeh93yQX+uOXqT0+brKPNBYJzjpO+nrbgVkY+h3i8sphDSOP2C/IpOt4aAP6Hmng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aj715\\Projects\\Jobportsl\\Jobportsl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aj715\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aj715\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aj715\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\aj715\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\aj715\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\aj715\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
